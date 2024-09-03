@@ -97,6 +97,8 @@ Three .NET apps are provided in this repository:
     azd up
     ```
 
+   > **NOTE**: Make sure that Docker Desktop should be up and running before entering this command.
+
 1. Once the deployment is completed, you will see the output like below:
 
     ```bash
