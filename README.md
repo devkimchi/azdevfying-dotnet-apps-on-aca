@@ -21,6 +21,8 @@ Three .NET apps are provided in this repository:
 
 ## Getting Started
 
+> **NOTE**: You can see the complete example including all the Bicep files by switching to the `azdevfied` branch.
+
 1. Login to Azure through Azure Developer CLI.
 
     ```bash
@@ -123,3 +125,5 @@ Three .NET apps are provided in this repository:
 ## More Information
 
 - [Azure Container Apps](https://learn.microsoft.com/azure/container-apps/overview?WT.mc_id=dotnet-149302-juyoo)
+- [Deployment options to Azure Container Apps](https://learn.microsoft.com/azure/container-apps/code-to-cloud-options?WT.mc_id=dotnet-149302-juyoo)
+- [Publish .NET apps to ACA via Azure CLI](https://learn.microsoft.com/azure/container-apps/quickstart-code-to-cloud?tabs=bash%2Ccsharp&WT.mc_id=dotnet-149302-juyoo)
