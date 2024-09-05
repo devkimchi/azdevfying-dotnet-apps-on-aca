@@ -21,7 +21,7 @@ Three .NET apps are provided in this repository:
 
 ## Getting Started
 
-> **NOTE**: You can see the complete example including all the Bicep files by switching to the `azdevfied` branch.
+> **NOTE**: You can see the complete example including all the Bicep files by switching to the [`azdevfied`](https://github.com/devkimchi/azdevfying-dotnet-apps-on-aca/tree/azdevfied) branch.
 
 1. Login to Azure through Azure Developer CLI.
 
